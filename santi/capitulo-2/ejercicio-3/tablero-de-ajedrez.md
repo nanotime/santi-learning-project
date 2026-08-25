@@ -1,0 +1,3 @@
+-Concepto aplicado: Bucles anidados, concatenación de strings, operadores y caracteres de escape.
+-Como lo aplicaste: Antes de escribir código, planteé en papel el patrón de pares e impares para identificar dónde debían ir los espacios. Luego creé una variable size para el tamaño del tablero y una variable de texto vacía para ir construyendo cada fila, usando un bucle for anidado dentro de otro, ambos controlados por size.
+-Que te costó mas: Entender cómo funciona un bucle dentro de otro bucle, y resolver la lógica para alternar correctamente los espacios entre cada elemento del patrón.
