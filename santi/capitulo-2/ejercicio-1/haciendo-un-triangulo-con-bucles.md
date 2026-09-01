@@ -1,0 +1,3 @@
+-Concepto aplicado: Bucles (while) y operadores de comparación.
+-Como lo aplicaste: Usé un bucle while para generar las líneas del triángulo, con el operador <= para limitar la repetición a 7 líneas.
+-Que te costó mas: El orden de las operaciones dentro del bucle. Al concatenar el nuevo carácter (ladrillo = ladrillo + "#") antes de imprimir con console.log, cada línea mostraba un carácter de más de los que debía (por ejemplo, "##" en la primera línea en vez de "#"). Tuve que revisar el orden entre la actualización de la variable y la impresión para corregirlo.
