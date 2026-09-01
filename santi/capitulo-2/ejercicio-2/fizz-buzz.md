@@ -1,0 +1,3 @@
+-Concepto aplicado: Bucles (for), condicionales (switch), operador módulo (%) y operador de igualdad estricta (===).
+-Como lo aplicaste: Usé un bucle for porque conocía de antemano el rango (1 a 100), y un switch para evaluar las condiciones en orden hasta llegar al caso default si ninguna se cumplía. El operador % me permitió identificar los números divisibles entre 3, 5, o ambos, y === para las comparaciones estrictas dentro de cada case.
+-Que te costó mas: Al principio se me olvidó usar el operador % para calcular la divisibilidad, así que la lógica no funcionaba hasta que lo agregué.
