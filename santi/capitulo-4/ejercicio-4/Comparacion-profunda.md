@@ -1,0 +1,3 @@
+-Concepto aplicado: Recursión inspección de objetos con Object.keys() y evaluación de tipos y valores nulos en JavaScript/TypeScript.
+-Como lo aplicaste: Descartaste primitivos y referencias directas con ===, aseguraste que ambos fueran objetos válidos excluyendo null, comparaste la cantidad de propiedades y luego recorriste las claves verificando su existencia y comparando sus valores de forma recursiva.
+-Que te costo mas: El manejo de casos base y la recursión para estructuras anidadas fue lo que más me costó.
