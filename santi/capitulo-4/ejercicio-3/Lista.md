@@ -1,0 +1,3 @@
+-Concepto aplicado: Estructuras de datos dinámicas , listas enlazadas simples con objetos anidados (value y rest), y recorrido secuencial mediante punteros.
+-Como lo aplicaste: En arrayToList, recorriste el array de atrás hacia adelante envolviendo cada elemento con el anterior. En listToArray, usaste un bucle while (nodoActual !== null) avanzando con .rest. Para prepend, creaste un nuevo nodo apuntando a la lista existente, y en nth, avanzaste $n$ posiciones con un bucle for manejando casos fuera de rango con nodoActual?.value
+-Que te costo mas: Cambiar el modelo mental de arrays (índices directos y .length) al de listas enlazadas (construcción inversa y avance manual nodo a nodo).
