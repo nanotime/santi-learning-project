@@ -1,0 +1,3 @@
+-Concepto aplicado: Funciones puras versus mutación de datos  tipos genéricos <T> y técnica de dos punteros  intercambio de extremos en arrays.
+-Como lo aplicaste: En reverseArray, recorriste el array en sentido inverso agregando elementos a uno nuevo con .push() En reverseArrayInPlace iteraste hasta la mitad (Math.floor(length / 2)) e intercambiaste las posiciones opuestas usando una variable temporal.
+-Que te costo mas: Diferenciar el impacto en rendimiento y memoria entre clonar una estructura completa frente a mutar los datos en el lugar
