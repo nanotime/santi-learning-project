@@ -1,0 +1,3 @@
+-Concepto aplicado: Bucles for , acumulacion con .reduce() , metodos de arrays (.push()) y parametros opcionales en TypeScript (?).
+-Como lo aplicaste: En range, calcule un pasoReal segun la direccion de los numeros y llenar el array con un bucle for usando i += pasoReal. En sum .reduce((a, b) => a + b, 0) para acumular el total.
+-Que te costo mas: Comprender la aritmetica de los numeros negativos al avanzar (i += paso en lugar de restar) y configurar el parametro opcional para que no forzara un valor por defecto fijo.
